@@ -1,6 +1,6 @@
 # JSPC Maven Plugin
 
-[![Build Status](https://travis-ci.org/Jasig/jspc-maven-plugin.svg?branch=master)](https://travis-ci.org/Jasig/jspc-maven-plugin)
+[![Build Status](https://travis-ci.org/bliblidotcom/jspc-maven-plugin.svg?branch=master)](https://travis-ci.org/bliblidotcom/jspc-maven-plugin)
 
 ## Info
 
